@@ -1,0 +1,36 @@
+div.back {
+  background-image: url(Sec-1.jpg);
+  background-size: cover;
+  margin: 0%;
+}
+
+ul {
+  border: 0px solid salmon;
+  color: white;
+  font-weight: bold;
+}
+
+div.home-1 {
+  margin-top: 100px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+}
+
+p.home-2 {
+  padding-top: 20px;
+  border: 3px solid sandybrown;
+  width: 50%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  padding: 0px;
+  font-size: 20px;
+}
+
+p {
+  text-align: center;
+  text-decoration: underline;
+}/*# sourceMappingURL=Vic-portfolio.css.map */
